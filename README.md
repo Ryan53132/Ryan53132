@@ -12,7 +12,7 @@
 `HTML` • `CSS` • `Python` • `C` • `C#` • `C++` • `SQL` • `PHP`
 
 **Ferramentas & Frameworks:**  
-`Linux` • `MySQL` • `Git` / `GitHub` • `VS Code` • `Scrum`
+`Linux` • `MySQL` • `Git` / `GitHub` • `VS Code` • `Scrum` • `Django` • `Nextjs` • `Flask`
 
 ---
 
