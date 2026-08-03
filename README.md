@@ -9,10 +9,10 @@
 ## 🚀 Tecnologias que utilizo
 
 **Linguagens:**  
-`HTML` • `CSS` • `Python` • `C` • `C#` • `C++` • `SQL` • `PHP`
+`HTML` • `CSS` • `Python` • `C` • `C#` • `C++` • `SQL` • `PHP` • `TypeScript` • `JavaScript`
 
 **Ferramentas & Frameworks:**  
-`Linux` • `MySQL` • `Git` / `GitHub` • `VS Code` • `Scrum` • `Django` • `Nextjs` • `Flask`
+`Linux` • `MySQL` • `Git` / `GitHub` • `VS Code` • `Scrum` • `Django` • `Nextjs` • `Flask` • `Vite` • `React`
 
 ---
 
